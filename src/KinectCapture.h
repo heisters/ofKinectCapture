@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxKinect.h"
 
 class KinectCapture : public ofBaseApp{
 
@@ -17,4 +18,6 @@ class KinectCapture : public ofBaseApp{
 		void mouseReleased(int x, int y, int button);
 		void windowResized(int w, int h);
 
+	private:
+		ofxKinect			kinect;
 };

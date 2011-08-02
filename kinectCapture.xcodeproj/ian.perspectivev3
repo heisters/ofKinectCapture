@@ -268,12 +268,13 @@
 							<array>
 								<string>E4B69B4A0A3A1720003C02F2</string>
 								<string>E4B69E1C0A3A1BDC003C02F2</string>
+								<string>BB4B014C10F69532006C3DED</string>
 								<string>1C37FBAC04509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
+									<integer>8</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -309,7 +310,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>3C2FADD613A2CF95004078CC</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>openFrameworks-Info.plist</string>
+								<string>ofxKinect.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -317,14 +318,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>3C2FADD713A2CF95004078CC</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>openFrameworks-Info.plist</string>
+										<string>ofxKinect.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3C402ED013E77A1100172D01</string>
+										<string>3C402FBE13E77E1900172D01</string>
 										<key>history</key>
 										<array>
-											<string>3C2FADEE13A2CFA8004078CC</string>
+											<string>3C402FBA13E77E1900172D01</string>
+											<string>3C402FBB13E77E1900172D01</string>
+										</array>
+										<key>prevStack</key>
+										<array>
+											<string>3C402FBC13E77E1900172D01</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -415,7 +421,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 31}, {603, 297}}</string>
+										<string>{{10, 27}, {639, 283}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -500,7 +506,7 @@
 						<key>Frame</key>
 						<string>{{0, 0}, {846, 180}}</string>
 						<key>RubberWindowFrame</key>
-						<string>370 204 846 645 0 0 1440 878 </string>
+						<string>64 91 846 645 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -576,10 +582,10 @@
 							<key>Frame</key>
 							<string>{{413, 0}, {433, 204}}</string>
 							<key>RubberWindowFrame</key>
-							<string>370 204 846 645 0 0 1440 878 </string>
+							<string>64 91 846 645 0 0 1440 878 </string>
 						</dict>
 						<key>RubberWindowFrame</key>
-						<string>370 204 846 645 0 0 1440 878 </string>
+						<string>64 91 846 645 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -642,7 +648,7 @@
 		<string>/Users/ian/Projects/of/apps/mine/kinectCapture/kinectCapture.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>370 204 846 645 0 0 1440 878 </string>
+	<string>64 91 846 645 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

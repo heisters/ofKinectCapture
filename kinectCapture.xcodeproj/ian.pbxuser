@@ -90,6 +90,74 @@
 		rLen = 0;
 		rLoc = 2147483647;
 	};
+	3C402EDB13E77C3A00172D01 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ian/Projects/of/apps/mine/kinectCapture/openFrameworks-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3C402F5F13E77C6700172D01 /* ofxKinect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {578, 2688}}";
+			sepNavSelRange = "{137, 23}";
+			sepNavVisRange = "{14, 290}";
+		};
+	};
+	3C402FBA13E77E1900172D01 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ian/Projects/of/apps/mine/kinectCapture/openFrameworks-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3C402FBB13E77E1900172D01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: ofxThread.h: No such file or directory";
+		fRef = 3C402F5F13E77C6700172D01 /* ofxKinect.h */;
+		rLen = 1;
+		rLoc = 9;
+		rType = 1;
+	};
+	3C402FBC13E77E1900172D01 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/ian/Projects/of/apps/mine/kinectCapture/openFrameworks-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3C402FBD13E77E1900172D01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3C402F5F13E77C6700172D01 /* ofxKinect.h */;
+		name = "ofxKinect.h: 10";
+		rLen = 23;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 241;
+		vrLoc = 0;
+	};
+	3C402FBE13E77E1900172D01 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3C402F5F13E77C6700172D01 /* ofxKinect.h */;
+		name = "ofxKinect.h: 10";
+		rLen = 23;
+		rLoc = 137;
+		rType = 0;
+		vrLen = 290;
+		vrLoc = 14;
+	};
 	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 3C2FAD7313A2CE64004078CC /* kinectCapture */;
@@ -179,6 +247,12 @@
 			3C402EC613E7799800172D01 /* PlistBookmark */ = 3C402EC613E7799800172D01 /* PlistBookmark */;
 			3C402ECF13E77A1100172D01 /* PlistBookmark */ = 3C402ECF13E77A1100172D01 /* PlistBookmark */;
 			3C402ED013E77A1100172D01 /* PlistBookmark */ = 3C402ED013E77A1100172D01 /* PlistBookmark */;
+			3C402EDB13E77C3A00172D01 /* PlistBookmark */ = 3C402EDB13E77C3A00172D01 /* PlistBookmark */;
+			3C402FBA13E77E1900172D01 /* PlistBookmark */ = 3C402FBA13E77E1900172D01 /* PlistBookmark */;
+			3C402FBB13E77E1900172D01 /* PBXTextBookmark */ = 3C402FBB13E77E1900172D01 /* PBXTextBookmark */;
+			3C402FBC13E77E1900172D01 /* PlistBookmark */ = 3C402FBC13E77E1900172D01 /* PlistBookmark */;
+			3C402FBD13E77E1900172D01 /* PBXTextBookmark */ = 3C402FBD13E77E1900172D01 /* PBXTextBookmark */;
+			3C402FBE13E77E1900172D01 /* PBXTextBookmark */ = 3C402FBE13E77E1900172D01 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3C2FAD7713A2CE82004078CC /* Source Control */;
 		userBuildSettings = {
