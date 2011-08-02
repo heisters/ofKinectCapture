@@ -9,6 +9,7 @@ class KinectCapture : public ofBaseApp{
 		void setup();
 		void update();
 		void draw();
+		void exit();
 
 		void keyPressed  (int key);
 		void keyReleased(int key);
@@ -20,4 +21,8 @@ class KinectCapture : public ofBaseApp{
 
 	private:
 		ofxKinect			kinect;
+		int				width, height;
+		ofImage				visible, depth;
+		bool				record;
+		int				recordFrameOffset;
 };

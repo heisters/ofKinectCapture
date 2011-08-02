@@ -310,7 +310,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>3C2FADD613A2CF95004078CC</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ofxKinect.h</string>
+								<string>KinectCapture.cpp</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -318,19 +318,21 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>3C2FADD713A2CF95004078CC</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ofxKinect.h</string>
+										<string>KinectCapture.cpp</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3C402FBE13E77E1900172D01</string>
+										<string>3CB91F5C13E79A2F00F336DF</string>
 										<key>history</key>
 										<array>
 											<string>3C402FBA13E77E1900172D01</string>
-											<string>3C402FBB13E77E1900172D01</string>
+											<string>3CB91F4F13E7971200F336DF</string>
+											<string>3CB91F5013E7971200F336DF</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>3C402FBC13E77E1900172D01</string>
+											<string>3CB91F5113E7971200F336DF</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -367,7 +369,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {639, 283}}</string>
+										<string>{{10, 27}, {0, -27}}</string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -449,11 +451,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>3C402EC713E7799800172D01</string>
+				<string>3CB91F5413E7971200F336DF</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>3C402EC813E7799800172D01</string>
+				<string>3CB91F5513E7971200F336DF</string>
 				<string>3C2FADD613A2CF95004078CC</string>
-				<string>3C402EC913E7799800172D01</string>
+				<string>3CB91F5613E7971200F336DF</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -506,7 +508,7 @@
 						<key>Frame</key>
 						<string>{{0, 0}, {846, 180}}</string>
 						<key>RubberWindowFrame</key>
-						<string>64 91 846 645 0 0 1440 878 </string>
+						<string>452 187 846 645 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
@@ -582,10 +584,10 @@
 							<key>Frame</key>
 							<string>{{413, 0}, {433, 204}}</string>
 							<key>RubberWindowFrame</key>
-							<string>64 91 846 645 0 0 1440 878 </string>
+							<string>452 187 846 645 0 0 1440 878 </string>
 						</dict>
 						<key>RubberWindowFrame</key>
-						<string>64 91 846 645 0 0 1440 878 </string>
+						<string>452 187 846 645 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
@@ -608,14 +610,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>3C402ED113E77A1100172D01</string>
+				<string>3CB91F4313E7945400F336DF</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>3C402ED213E77A1100172D01</string>
-				<string>3C402ED313E77A1100172D01</string>
-				<string>3C402ED413E77A1100172D01</string>
-				<string>3C402ED513E77A1100172D01</string>
-				<string>3C2FADD613A2CF95004078CC</string>
+				<string>3CB91F4413E7945400F336DF</string>
+				<string>3CB91F4513E7945400F336DF</string>
+				<string>3CB91F4613E7945400F336DF</string>
+				<string>3CB91F4713E7945400F336DF</string>
+				<string>3CB91F4813E7945400F336DF</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -648,7 +650,7 @@
 		<string>/Users/ian/Projects/of/apps/mine/kinectCapture/kinectCapture.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>64 91 846 645 0 0 1440 878 </string>
+	<string>452 187 846 645 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
